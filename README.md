@@ -20,3 +20,5 @@ tensorflow
 keras
 
 数据集来源：
+
+https://github.com/phunterlau/dga_classifier
