@@ -6,7 +6,9 @@
 
 acc:
 
-SVM~90%    LSTM~99%
+SVM~90%    
+
+LSTM~99%
 
 
 依赖：
@@ -17,3 +19,4 @@ tensorflow
 
 keras
 
+数据集来源：
