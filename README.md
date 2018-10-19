@@ -15,6 +15,14 @@ LSTM~99%
 
 python3
 
+numpy
+
+pandas
+
+matplotlib
+
+sklearn
+
 tensorflow
 
 keras
