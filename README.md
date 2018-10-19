@@ -2,7 +2,7 @@
 
 基于机器学习识别DGA域名
 
-包括SVM,LSTM两种方法实现
+包括SVM , Word2Vec + LSTM两种方法实现
 
 acc:
 
@@ -22,6 +22,8 @@ pandas
 matplotlib
 
 sklearn
+
+gensim
 
 tensorflow
 
