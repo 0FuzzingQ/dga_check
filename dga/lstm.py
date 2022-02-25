@@ -12,7 +12,9 @@ import re
 from sklearn import preprocessing
 from sklearn.utils import shuffle
 from sklearn.svm import SVC
-from sklearn import cross_validation
+
+#from sklearn import cross_validation
+from sklearn import model_selection
 from keras.preprocessing import sequence
 from keras.models import Sequential
 from keras.layers import Dense,Embedding
